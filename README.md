@@ -1,0 +1,2 @@
+# Log
+daily note
